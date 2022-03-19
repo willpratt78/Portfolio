@@ -25,3 +25,21 @@ img {
   color: green;
   font-style: italic;
 }
+
+.slideleft {
+  animation-duration: 2s;
+  animation-name: slideleft; 
+}
+
+@keyframes slideleft {
+  from {
+    margin left: 100%;
+    width: 300%;
+  }
+
+
+to {
+  margin-left: 0%;
+  Width: 100%;
+}
+}
