@@ -1,6 +1,6 @@
 img {
   float: left;
-  height: 200px;
+  height: 180px;
 }
 
 h1 {
@@ -13,4 +13,10 @@ body {
 
 .whole-page {
   color: white;
+}
+
+img {
+  margin: 7px;
+  border: 7px solid black;
+  padding: 5px;
 }
