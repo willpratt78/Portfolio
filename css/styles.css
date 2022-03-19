@@ -20,3 +20,8 @@ img {
   border: 7px solid black;
   padding: 5px;
 }
+
+.relevent {
+  color: green;
+  font-style: italic;
+}
