@@ -15,6 +15,10 @@ This application will be used to show off my coding prowess when sending off res
 
 ## Installation Requirements
 
+* Clone Repository onto your local maching
+* Open the directory named portfolio
+* Open index file
+
 ## Known Bugs
 
 * No known bugs at this time
