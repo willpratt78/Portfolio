@@ -11,7 +11,7 @@
 
 ## Description
 
-This application will be used to show off my coding prowess when sending off resumes to try and obtain a job.
+This application will be used to show off my coding prowess when sending off resumes to try and obtain a job. You can find a link to the Github Pages [Here](https://willpratt78.github.io/Portfolio/)
 
 ## Installation Requirements
 
